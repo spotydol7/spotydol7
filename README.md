@@ -19,7 +19,3 @@ Department of Electrical and Computer Engineering, Pusan National University
 - 정보처리기사
 - 2024.02.18 TOEIC 905
 - 2025.03.09 OPIC IH (Intermediate High)
-
-## GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=spotydol7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spotydol7&theme=dark&hide_border=true&layout=compact)
